@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/queries/pom.xml" />
         <option value="$PROJECT_DIR$/batching/pom.xml" />
+        <option value="$PROJECT_DIR$/mutation/pom.xml" />
       </list>
     </option>
   </component>
